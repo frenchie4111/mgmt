@@ -27,7 +27,7 @@
 			"file": "/home/mike/.config/sublime-text-2/Packages/User/C++ SDL.sublime-build",
 			"settings":
 			{
-				"buffer_size": 232,
+				"buffer_size": 204,
 				"line_ending": "Unix"
 			}
 		},
@@ -43,7 +43,7 @@
 			"file": "mgmt.sublime-build",
 			"settings":
 			{
-				"buffer_size": 518,
+				"buffer_size": 204,
 				"line_ending": "Unix"
 			}
 		},
@@ -70,20 +70,40 @@
 				"buffer_size": 1649,
 				"line_ending": "Unix"
 			}
+		},
+		{
+			"file": "mgmt-lyons.sublime-project",
+			"settings":
+			{
+				"buffer_size": 333,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "mgmt-lyons.sublime-workspace",
+			"settings":
+			{
+				"buffer_size": 5954,
+				"line_ending": "Unix"
+			}
 		}
 	],
-	"build_system": "Packages/User/C++ SDL.sublime-build",
+	"build_system": "",
 	"command_palette":
 	{
-		"height": 54.0,
+		"height": 392.0,
 		"selected_items":
 		[
+			[
+				"Package Control: INs",
+				"Package Control: Install Package"
+			],
 			[
 				"Package",
 				"Package Control: Install Package"
 			]
 		],
-		"width": 404.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -111,7 +131,7 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 35.0
 	},
 	"find_in_files":
 	{
@@ -142,7 +162,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 6,
 			"sheets":
 			[
 				{
@@ -150,15 +170,15 @@
 					"file": "/home/mike/.config/sublime-text-2/Packages/User/C++ SDL.sublime-build",
 					"settings":
 					{
-						"buffer_size": 232,
+						"buffer_size": 204,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								184,
-								184
+								3,
+								3
 							]
 						],
 						"settings":
@@ -184,8 +204,8 @@
 						"selection":
 						[
 							[
-								316,
-								316
+								127,
+								127
 							]
 						],
 						"settings":
@@ -205,15 +225,15 @@
 					"file": "mgmt.sublime-build",
 					"settings":
 					{
-						"buffer_size": 518,
+						"buffer_size": 204,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								518,
-								518
+								204,
+								204
 							]
 						],
 						"settings":
@@ -267,8 +287,8 @@
 						"selection":
 						[
 							[
-								517,
-								517
+								247,
+								247
 							]
 						],
 						"settings":
@@ -293,8 +313,8 @@
 						"selection":
 						[
 							[
-								1630,
-								1599
+								1020,
+								1020
 							]
 						],
 						"settings":
@@ -308,6 +328,59 @@
 						"zoom_level": 1.0
 					},
 					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "mgmt-lyons.sublime-project",
+					"settings":
+					{
+						"buffer_size": 333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								332,
+								332
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "mgmt-lyons.sublime-workspace",
+					"settings":
+					{
+						"buffer_size": 5954,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5951,
+								5951
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 5079.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
 				}
 			]
 		}
@@ -318,7 +391,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{

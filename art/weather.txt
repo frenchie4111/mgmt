@@ -17,22 +17,22 @@
 	<station_id>KROC</station_id>
 	<latitude>43.12</latitude>
 	<longitude>-77.67</longitude>
-	<observation_time>Last Updated on Oct 18 2012, 11:54 am EDT</observation_time>
-        <observation_time_rfc822>Thu, 18 Oct 2012 11:54:00 -0400</observation_time_rfc822>
-	<weather>Mostly Cloudy and Breezy</weather>
-	<temperature_string>66.0 F (18.9 C)</temperature_string>
-	<temp_f>66.0</temp_f>
-	<temp_c>18.9</temp_c>
-	<relative_humidity>45</relative_humidity>
-	<wind_string>from the South at 20.7 gusting to 38.0 MPH (18 gusting to 33 KT)</wind_string>
+	<observation_time>Last Updated on Oct 18 2012, 1:54 pm EDT</observation_time>
+        <observation_time_rfc822>Thu, 18 Oct 2012 13:54:00 -0400</observation_time_rfc822>
+	<weather>Mostly Cloudy</weather>
+	<temperature_string>65.0 F (18.3 C)</temperature_string>
+	<temp_f>65.0</temp_f>
+	<temp_c>18.3</temp_c>
+	<relative_humidity>47</relative_humidity>
+	<wind_string>from the South at 16.1 gusting to 26.5 MPH (14 gusting to 23 KT)</wind_string>
 	<wind_dir>South</wind_dir>
-	<wind_degrees>180</wind_degrees>
-	<wind_mph>20.7</wind_mph>
-	<wind_gust_mph>38.0</wind_gust_mph>
-	<wind_kt>18</wind_kt>
-	<wind_gust_kt>33</wind_gust_kt>
-	<pressure_string>1006.4 mb</pressure_string>
-	<pressure_mb>1006.4</pressure_mb>
+	<wind_degrees>170</wind_degrees>
+	<wind_mph>16.1</wind_mph>
+	<wind_gust_mph>26.5</wind_gust_mph>
+	<wind_kt>14</wind_kt>
+	<wind_gust_kt>23</wind_gust_kt>
+	<pressure_string>1006.5 mb</pressure_string>
+	<pressure_mb>1006.5</pressure_mb>
 	<pressure_in>29.72</pressure_in>
 	<dewpoint_string>44.1 F (6.7 C)</dewpoint_string>
 	<dewpoint_f>44.1</dewpoint_f>
