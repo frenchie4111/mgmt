@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="include/music_file.h" open="1" top="1" tabpos="5">
+		<Cursor position="2168" topLine="51" />
+	</File>
+	<File name="include/todo_module.h" open="1" top="0" tabpos="4">
+		<Cursor position="244" topLine="0" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="1263" topLine="12" />
+	</File>
+	<File name="src/lyonsSDL.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="0" topLine="27" />
+	</File>
+	<File name="src/timedate_module.cpp" open="1" top="0" tabpos="2">
+		<Cursor position="230" topLine="0" />
+	</File>
+	<File name="src/todo_module.cpp" open="1" top="0" tabpos="3">
+		<Cursor position="469" topLine="10" />
+	</File>
+</CodeBlocks_layout_file>

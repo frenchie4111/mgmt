@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="mgmt" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/mgmt" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="/home/mike/Programming/mgmt/include" />
+				</Compiler>
+				<Linker>
+					<Add option="-lSDL" />
+					<Add option="-lSDL_gfx" />
+					<Add option="-lSDL_ttf" />
+					<Add option="-lSDL_image" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/mgmt" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="`sdl-config --cflags`" />
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add option="`sdl-config --libs`" />
+		</Linker>
+		<Unit filename="cb.bmp" />
+		<Unit filename="include/lyonsSDL.h" />
+		<Unit filename="include/module.h" />
+		<Unit filename="include/module_handler.h" />
+		<Unit filename="include/music_file.h" />
+		<Unit filename="include/music_module.h" />
+		<Unit filename="include/timedate_module.h" />
+		<Unit filename="include/todo_module.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/lyonsSDL.cpp" />
+		<Unit filename="src/module.cpp" />
+		<Unit filename="src/module_handler.cpp" />
+		<Unit filename="src/music_module.cpp" />
+		<Unit filename="src/timedate_module.cpp" />
+		<Unit filename="src/todo_module.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

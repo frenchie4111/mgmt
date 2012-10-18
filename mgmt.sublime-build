@@ -1,0 +1,16 @@
+{
+	"cmd": ["g++", "-o", "$file_base_name", 
+	"$file", 
+
+	"${file_path}/src/module.cpp",
+	"${file_path}/src/module_handler.cpp",
+	"${file_path}/src/agenda_module.cpp",
+	"${file_path}/src/lyonsSDL.cpp",
+	"${file_path}/src/music_module.cpp",
+	"${file_path}/src/timedate_module.cpp",
+	"${file_path}/src/todo_module.cpp",
+	"${file_path}/src/weather_module.cpp",
+
+	 "-I/usr/include/SDL/", "-I${file_path}/include/", "-lSDL", "-lSDL_image", "-lSDL_gfx", "-lSDL_ttf"], "working_dir": "${file_path}",
+"selector": "source.c++"
+}

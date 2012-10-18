@@ -1,0 +1,360 @@
+# depslib dependency file v1.0
+1349906685 source:/home/mike/Programming/mgmt/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_rotozoom.h>
+	<iostream>
+	<sstream>
+	<ctime>
+	"include/music_file.h"
+	"include/module_handler.h"
+	"include/lyonsSDL.h"
+
+1327665706 /usr/include/SDL/SDL.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_config.h
+	"SDL_platform.h"
+	<stdarg.h>
+
+1327665706 /usr/include/SDL/SDL_platform.h
+
+1327665706 /usr/include/SDL/begin_code.h
+
+1327665706 /usr/include/SDL/close_code.h
+
+1327665706 /usr/include/SDL/SDL_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_endian.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_keysym.h
+
+1327665706 /usr/include/SDL/SDL_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1327665706 /usr/include/SDL/SDL_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1327665706 /usr/include/SDL/SDL_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1349738319 /home/mike/Programming/mgmt/music_file.hpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<vector>
+
+1349797251 /home/mike/Programming/mgmt/music_file.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<vector>
+
+1349961669 /home/mike/Programming/mgmt/include/music_file.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<vector>
+
+1349978975 /home/mike/Programming/mgmt/include/module_handler.h
+	<vector>
+	<tr1/memory>
+	<SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_gfxPrimitives.h>
+	"lyonsSDL.h"
+	"module.h"
+	"music_module.h"
+	"music_file.h"
+	"timedate_module.h"
+	"todo_module.h"
+	"weather_module.h"
+	"agenda_module.h"
+
+1349979322 /home/mike/Programming/mgmt/include/module.h
+	"lyonsSDL.h"
+
+1349979334 source:/home/mike/Programming/mgmt/src/module.cpp
+	"module.h"
+
+1349834013 /home/mike/Programming/mgmt/include//module.h
+	"lyonsSDL.h"
+
+1349992356 source:/home/mike/Programming/mgmt/src/module_handler.cpp
+	"module_handler.h"
+
+1349833845 /home/mike/Programming/mgmt/include//module_handler.h
+	<vector>
+	<tr1/memory>
+	<SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_gfxPrimitives.h>
+	"lyonsSDL.h"
+	"module.h"
+	"music_module.h"
+	"music_file.h"
+	"timedate_module.h"
+	"todo_module.h"
+
+1349834118 source:/home/mike/Programming/mgmt/src/lyonsSDL.cpp
+	"lyonsSDL.h"
+
+1349834108 /home/mike/Programming/mgmt/include//lyonsSDL.h
+	<SDL/SDL.h>
+	<string>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_rotozoom.h>
+	<SDL/SDL_gfxPrimitives.h>
+	<vector>
+	<fstream>
+	<iostream>
+
+1325206088 /usr/include/SDL/SDL_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325205385 /usr/include/SDL/SDL_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1349834108 /home/mike/Programming/mgmt/include/lyonsSDL.h
+	<SDL/SDL.h>
+	<string>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_rotozoom.h>
+	<SDL/SDL_gfxPrimitives.h>
+	<vector>
+	<fstream>
+	<iostream>
+
+1349974770 source:/home/mike/Programming/mgmt/src/music_module.cpp
+	"music_module.h"
+
+1349817434 /home/mike/Programming/mgmt/include//music_module.h
+	"module.h"
+	"music_file.h"
+
+1349817434 /home/mike/Programming/mgmt/include/music_module.h
+	"module.h"
+	"music_file.h"
+
+1349834640 /home/mike/Programming/mgmt/include//music_file.h
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<fstream>
+	<sstream>
+	<vector>
+
+1349979388 source:/home/mike/Programming/mgmt/src/timedate_module.cpp
+	"timedate_module.h"
+
+1349817276 /home/mike/Programming/mgmt/include//timedate_module.h
+	"module.h"
+	"lyonsSDL.h"
+	<ctime>
+	<sstream>
+
+1349817276 /home/mike/Programming/mgmt/include/timedate_module.h
+	"module.h"
+	"lyonsSDL.h"
+	<ctime>
+	<sstream>
+
+1349974708 source:/home/mike/Programming/mgmt/src/todo_module.cpp
+	"todo_module.h"
+
+1349834921 /home/mike/Programming/mgmt/include//todo_module.h
+	"lyonsSDL.h"
+	"module.h"
+
+1349892016 /home/mike/Programming/mgmt/include/todo_module.h
+	"lyonsSDL.h"
+	"module.h"
+
+1349993982 source:/home/mike/Programming/mgmt/src/weather_module.cpp
+	"weather_module.h"
+	<stdio.h>
+	<stdlib.h>
+	<sstream>
+
+1349992502 /home/mike/Programming/mgmt/include/weather_module.h
+	"module.h"
+	<vector>
+
+1349979501 /home/mike/Programming/mgmt/include/agenda_module.h
+	<vector>
+	<module.h>
+	"lyonsSDL.h"
+
+1349980313 source:/home/mike/Programming/mgmt/src/agenda_module.cpp
+	"agenda_module.h"
+
