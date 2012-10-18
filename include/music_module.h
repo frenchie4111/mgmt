@@ -4,6 +4,7 @@
 
 #include "module.h"
 #include "music_file.h"
+#include "settings_handler.h"
 
 class music_module : public module
 {
@@ -19,6 +20,7 @@ class music_module : public module
         int limiter;
 
         music_module();
+        music_module(settings_handler settings);
 
         void draw(SDL_Surface *screen, int x, int y);
 

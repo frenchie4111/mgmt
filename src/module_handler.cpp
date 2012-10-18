@@ -2,6 +2,8 @@
 
 module_handler::module_handler()
 {
+    
+    cout << "SETTING: " << settings.get_setting("WEATHER_IP") << endl;
 }
 
 void module_handler::draw(SDL_Surface *screen)

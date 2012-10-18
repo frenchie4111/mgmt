@@ -5,6 +5,10 @@
 			"path": "/home/mike/Programming/mgmt"
 		}
 	],
+	"settings":
+	{
+		"tab_size":4
+	},
 	"build_systems":
 	[
 		{

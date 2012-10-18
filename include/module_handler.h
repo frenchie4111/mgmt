@@ -9,6 +9,7 @@
 #include <SDL/SDL_ttf.h>
 #include <SDL/SDL_gfxPrimitives.h>
 
+#include "settings_handler.h"
 #include "lyonsSDL.h"
 #include "module.h"
 #include "music_module.h"
@@ -25,6 +26,8 @@ class module_handler
     public:
         Uint32 startTime; //for fps
         int numFrames;
+
+        settings_handler settings;
 
         music_module mm;
         timedate_module tdm;

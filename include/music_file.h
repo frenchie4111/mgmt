@@ -8,9 +8,12 @@
 #include <sstream>
 #include <vector>
 
+#include "settings_handler.h"
+
 using namespace std;
 
-class music_file {
+class music_file 
+{
 	string file_location;
 	string last_downloaded;
 	vector<string> file_vector;
@@ -25,6 +28,11 @@ class music_file {
 		{
 			file_location = "this.txt";
 			ip = "alaska4.student.rit.edu";
+		}
+		music_file(settings_handler settings)
+		{
+			file_location = "this.txt";
+			ip = settings.get_setting("MUSIC_IP");
 		}
 		void update_file()
 		{

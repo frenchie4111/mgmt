@@ -11,6 +11,19 @@ music_module::music_module():module(400, 430, "FooBar2000 Now Playing")
     albumartimg = scale_load_image(albumart, 400, 400);
 }
 
+music_module::music_module( settings_handler settings ):module(400, 430, "FooBar2000 Now Playing")
+{
+    mf = music_file(settings);
+
+    limiter = 0;
+
+    mediumth = lyons_text(20);
+
+    albumart = mf.get_updated_art();
+    songtitle = mf.get_musictitle();
+    albumartimg = scale_load_image(albumart, 400, 400);
+}
+
 void music_module::draw(SDL_Surface *screen, int x, int y)
 {
     module::draw(screen, x, y);

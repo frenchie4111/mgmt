@@ -24,14 +24,6 @@
 	"buffers":
 	[
 		{
-			"file": "/home/mike/.config/sublime-text-2/Packages/User/C++ SDL.sublime-build",
-			"settings":
-			{
-				"buffer_size": 204,
-				"line_ending": "Unix"
-			}
-		},
-		{
 			"file": "src/main.cpp",
 			"settings":
 			{
@@ -75,7 +67,7 @@
 			"file": "mgmt-lyons.sublime-project",
 			"settings":
 			{
-				"buffer_size": 333,
+				"buffer_size": 377,
 				"line_ending": "Unix"
 			}
 		},
@@ -83,23 +75,35 @@
 			"file": "mgmt-lyons.sublime-workspace",
 			"settings":
 			{
-				"buffer_size": 5954,
+				"buffer_size": 7090,
 				"line_ending": "Unix"
 			}
 		}
 	],
-	"build_system": "",
+	"build_system": "mgmt",
 	"command_palette":
 	{
-		"height": 392.0,
+		"height": 327.0,
 		"selected_items":
 		[
 			[
-				"Package Control: INs",
-				"Package Control: Install Package"
+				":w",
+				":w - Save"
 			],
 			[
 				"Package",
+				"Package Control: Enable Package"
+			],
+			[
+				"Package Control Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package INstal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: INs",
 				"Package Control: Install Package"
 			]
 		],
@@ -120,6 +124,7 @@
 	},
 	"file_history":
 	[
+		"/home/mike/.config/sublime-text-2/Packages/User/C++ SDL.sublime-build",
 		"/home/mike/Programming/mgmt/include/module_handler.h",
 		"/home/mike/Programming/mgmt/src/module_handler.cpp",
 		"/home/mike/Programming/mgmt/C++ SDL.sublime-build",
@@ -162,38 +167,11 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/mike/.config/sublime-text-2/Packages/User/C++ SDL.sublime-build",
-					"settings":
-					{
-						"buffer_size": 204,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3,
-								3
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "src/main.cpp",
 					"settings":
 					{
@@ -204,8 +182,8 @@
 						"selection":
 						[
 							[
-								127,
-								127
+								501,
+								501
 							]
 						],
 						"settings":
@@ -215,13 +193,13 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 270.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
-					"buffer": 2,
+					"buffer": 1,
 					"file": "mgmt.sublime-build",
 					"settings":
 					{
@@ -232,8 +210,8 @@
 						"selection":
 						[
 							[
-								204,
-								204
+								1,
+								1
 							]
 						],
 						"settings":
@@ -248,7 +226,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
+					"buffer": 2,
 					"file": "src/music_module.cpp",
 					"settings":
 					{
@@ -276,7 +254,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
+					"buffer": 3,
 					"file": "include/music_file.h",
 					"settings":
 					{
@@ -302,7 +280,7 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
+					"buffer": 4,
 					"file": "src/todo_module.cpp",
 					"settings":
 					{
@@ -330,24 +308,25 @@
 					"type": "text"
 				},
 				{
-					"buffer": 6,
+					"buffer": 5,
 					"file": "mgmt-lyons.sublime-project",
 					"settings":
 					{
-						"buffer_size": 333,
+						"buffer_size": 377,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								332,
-								332
+								377,
+								377
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -356,19 +335,19 @@
 					"type": "text"
 				},
 				{
-					"buffer": 7,
+					"buffer": 6,
 					"file": "mgmt-lyons.sublime-workspace",
 					"settings":
 					{
-						"buffer_size": 5954,
+						"buffer_size": 7090,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								5951,
-								5951
+								0,
+								0
 							]
 						],
 						"settings":
