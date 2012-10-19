@@ -17,28 +17,28 @@
 	<station_id>KROC</station_id>
 	<latitude>43.12</latitude>
 	<longitude>-77.67</longitude>
-	<observation_time>Last Updated on Oct 18 2012, 5:54 pm EDT</observation_time>
-        <observation_time_rfc822>Thu, 18 Oct 2012 17:54:00 -0400</observation_time_rfc822>
-	<weather>Mostly Cloudy</weather>
-	<temperature_string>66.0 F (18.9 C)</temperature_string>
-	<temp_f>66.0</temp_f>
-	<temp_c>18.9</temp_c>
-	<relative_humidity>43</relative_humidity>
-	<wind_string>South at 11.5 MPH (10 KT)</wind_string>
-	<wind_dir>South</wind_dir>
-	<wind_degrees>160</wind_degrees>
-	<wind_mph>11.5</wind_mph>
-	<wind_kt>10</wind_kt>
-	<pressure_string>1007.4 mb</pressure_string>
-	<pressure_mb>1007.4</pressure_mb>
-	<pressure_in>29.75</pressure_in>
-	<dewpoint_string>43.0 F (6.1 C)</dewpoint_string>
-	<dewpoint_f>43.0</dewpoint_f>
-	<dewpoint_c>6.1</dewpoint_c>
+	<observation_time>Last Updated on Oct 18 2012, 8:54 pm EDT</observation_time>
+        <observation_time_rfc822>Thu, 18 Oct 2012 20:54:00 -0400</observation_time_rfc822>
+	<weather>Overcast</weather>
+	<temperature_string>57.0 F (13.9 C)</temperature_string>
+	<temp_f>57.0</temp_f>
+	<temp_c>13.9</temp_c>
+	<relative_humidity>67</relative_humidity>
+	<wind_string>Calm</wind_string>
+	<wind_dir>North</wind_dir>
+	<wind_degrees>0</wind_degrees>
+	<wind_mph>0.0</wind_mph>
+	<wind_kt>0</wind_kt>
+	<pressure_string>1010.1 mb</pressure_string>
+	<pressure_mb>1010.1</pressure_mb>
+	<pressure_in>29.83</pressure_in>
+	<dewpoint_string>46.0 F (7.8 C)</dewpoint_string>
+	<dewpoint_f>46.0</dewpoint_f>
+	<dewpoint_c>7.8</dewpoint_c>
 	<visibility_mi>10.00</visibility_mi>
  	<icon_url_base>http://forecast.weather.gov/images/wtf/small/</icon_url_base>
 	<two_day_history_url>http://www.weather.gov/data/obhistory/KROC.html</two_day_history_url>
-	<icon_url_name>bkn.png</icon_url_name>
+	<icon_url_name>novc.png</icon_url_name>
 	<ob_url>http://www.weather.gov/data/METAR/KROC.1.txt</ob_url>
 	<disclaimer_url>http://weather.gov/disclaimer.html</disclaimer_url>
 	<copyright_url>http://weather.gov/disclaimer.html</copyright_url>
