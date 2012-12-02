@@ -16,6 +16,7 @@ class weather_module:public module
         lyons_text largeth;
 
         SDL_Surface *weather_image;
+        bool image_exists;
 
         weather_module();
 

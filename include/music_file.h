@@ -63,39 +63,72 @@ class music_file
 		}
 		string get_musictitle() //Already update the shit please
 		{
-			return file_vector[26].substr(11,file_vector[26].find("\",")-11);
+			//return file_vector[26].substr(11,file_vector[26].find("\",")-11);
+			return get_info( "\"helper2\"" );
 		}
 		string get_artlink() //Already update the shit idiot
 		{
-			return file_vector[28].substr(12, file_vector[28].find("}") - 13);
+			return get_info( "\"albumArt\"" );
+		}
+		string get_info( string search ) //update the file, please. Don't be stupid
+		{
+			int index = -411;
+		    for(int i = 0; i < file_vector.size(); i++)
+		    {
+		        if(file_vector[i].find(search) < file_vector[i].size())
+		        {
+		            index = i;
+		            break;
+		        }
+		    }
+		    if(index == -411)
+		    {
+		        return "No";
+		    }
+		    else
+		    {
+		        string out = file_vector[index];
+		        out.replace(0, out.find(search + ":\"") + search.length() + 2 , "");
+		        out.replace(out.length()-2, out.length(), "");
+		        if( out.find("\"") < out.length() )
+		        {
+		        	out.replace(out.find("\""), out.find("\"")+1 , "");
+		        }
+		        return out;
+		    }
 		}
 		string download_art()
 		{
 		    string url = get_artlink();
-		    string filename = url.substr(9, url.length()-9);
-		    if(filename == "img/icon1rx.png")
-                    filename = "icon1rx.png";
-		    if(last_downloaded != filename)
+		    if( url != "No" )
 		    {
-                //cout << type;
-                cout << last_downloaded << " : " << filename << endl;
-                if(!file_exists("art/" + filename))
-                {
-                    string cmd = "wget --quiet -O art/" + filename + " http://" + ip + url;
-                    cout << "Got new image: " << filename << endl;
-                    //cout << cmd << endl;
-                    system(cmd.c_str());
-                }
-                else
-                {
-                    cout << "File already existed" << endl;
-                }
-                last_downloaded = filename;
-                cout << "Changing to: art/" << filename << endl;
-                return "art/" + filename;
-		    }
-		    else
-                return "";
+			    string filename = url.substr(9, url.length()-9);
+			    if(filename == "img/icon1rx.png")
+	                    filename = "icon1rx.png";
+			    if(last_downloaded != filename)
+			    {
+	                //cout << type;
+	                cout << last_downloaded << " : " << filename << endl;
+	                if(!file_exists("art/" + filename))
+	                {
+	                    string cmd = "wget --quiet -O art/" + filename + " http://" + ip + url;
+	                    cout << "Got new image: " << filename << endl;
+	                    //cout << cmd << endl;
+	                    system(cmd.c_str());
+	                }
+	                else
+	                {
+	                    cout << "File already existed" << endl;
+	                }
+	                last_downloaded = filename;
+	                cout << "Changing to: art/" << filename << endl;
+	                return "art/" + filename;
+			    }
+			    else
+	                return "";
+	        }
+	        else
+	        	return "No";
 		}
 		string get_updated_art()
 		{

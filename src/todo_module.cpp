@@ -9,7 +9,7 @@ todo_module::todo_module():module(250, 310, "To Do")
 }
 void todo_module::update_list()
 {
-    string cmd = "wget --quiet -O art/list.txt 'http://108.40.20.52/share/list/list.php'";
+    string cmd = "wget -O art/list.txt 'http://96.244.143.26/share/list/list.php'";
     system(cmd.c_str());
 
     vector<string> lines;

@@ -17,28 +17,33 @@
 	<station_id>KROC</station_id>
 	<latitude>43.12</latitude>
 	<longitude>-77.67</longitude>
-	<observation_time>Last Updated on Oct 18 2012, 8:54 pm EDT</observation_time>
-        <observation_time_rfc822>Thu, 18 Oct 2012 20:54:00 -0400</observation_time_rfc822>
-	<weather>Overcast</weather>
-	<temperature_string>57.0 F (13.9 C)</temperature_string>
-	<temp_f>57.0</temp_f>
-	<temp_c>13.9</temp_c>
-	<relative_humidity>67</relative_humidity>
-	<wind_string>Calm</wind_string>
-	<wind_dir>North</wind_dir>
-	<wind_degrees>0</wind_degrees>
-	<wind_mph>0.0</wind_mph>
-	<wind_kt>0</wind_kt>
-	<pressure_string>1010.1 mb</pressure_string>
-	<pressure_mb>1010.1</pressure_mb>
-	<pressure_in>29.83</pressure_in>
-	<dewpoint_string>46.0 F (7.8 C)</dewpoint_string>
-	<dewpoint_f>46.0</dewpoint_f>
-	<dewpoint_c>7.8</dewpoint_c>
-	<visibility_mi>10.00</visibility_mi>
+	<observation_time>Last Updated on Dec 2 2012, 2:54 pm EST</observation_time>
+        <observation_time_rfc822>Sun, 02 Dec 2012 14:54:00 -0500</observation_time_rfc822>
+	<weather>Light Rain Fog/Mist</weather>
+	<temperature_string>51.0 F (10.6 C)</temperature_string>
+	<temp_f>51.0</temp_f>
+	<temp_c>10.6</temp_c>
+	<relative_humidity>89</relative_humidity>
+	<wind_string>from the Southwest at 13.8 gusting to 21.9 MPH (12 gusting to 19 KT)</wind_string>
+	<wind_dir>Southwest</wind_dir>
+	<wind_degrees>210</wind_degrees>
+	<wind_mph>13.8</wind_mph>
+	<wind_gust_mph>21.9</wind_gust_mph>
+	<wind_kt>12</wind_kt>
+	<wind_gust_kt>19</wind_gust_kt>
+	<pressure_string>1012.8 mb</pressure_string>
+	<pressure_mb>1012.8</pressure_mb>
+	<pressure_in>29.90</pressure_in>
+	<dewpoint_string>48.0 F (8.9 C)</dewpoint_string>
+	<dewpoint_f>48.0</dewpoint_f>
+	<dewpoint_c>8.9</dewpoint_c>
+	<windchill_string>46 F (8 C)</windchill_string>
+      	<windchill_f>46</windchill_f>
+      	<windchill_c>8</windchill_c>
+	<visibility_mi>6.00</visibility_mi>
  	<icon_url_base>http://forecast.weather.gov/images/wtf/small/</icon_url_base>
 	<two_day_history_url>http://www.weather.gov/data/obhistory/KROC.html</two_day_history_url>
-	<icon_url_name>novc.png</icon_url_name>
+	<icon_url_name>ra1.png</icon_url_name>
 	<ob_url>http://www.weather.gov/data/METAR/KROC.1.txt</ob_url>
 	<disclaimer_url>http://weather.gov/disclaimer.html</disclaimer_url>
 	<copyright_url>http://weather.gov/disclaimer.html</copyright_url>

@@ -6,6 +6,10 @@
 
 using namespace std;
 
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <unistd.h>
+
 bool file_exists(string filename)
 {
   ifstream ifile(filename.c_str());
@@ -19,6 +23,7 @@ weather_module::weather_module():module(140, 225, "Weather")
     mediumth = lyons_text(20);
     largeth = lyons_text(40);
     limiter = 0;
+    image_exists = false;
 }
 
 string weather_module::get_weather_info(string search)
@@ -98,6 +103,11 @@ void weather_module::update_weather_image()
         }
 
         weather_image = IMG_Load(("art/" + image_name).c_str());
+        struct stat filestatus;
+        stat( ("art/" + image_name).c_str() , &filestatus );
+        cout << filestatus.st_size << " bytes\n";
+        if( filestatus.st_size > 0 )
+            image_exists = true;
     }
 }
 void weather_module::update()
@@ -120,7 +130,10 @@ void weather_module::draw(SDL_Surface *screen, int x, int y)
 
     cout << "       drawing Current Conditions" << endl;
     th.paint_text_center(x+70, y+13, "Current Conditions", screen);
-    apply_surface(x+70 - (weather_image->w/2), y+28, weather_image, screen);
+    if( image_exists )
+    {
+        apply_surface(x+70 - (weather_image->w/2), y+28, weather_image, screen);
+    }
     th.paint_text_center(x+70, y+90, get_weather_info("weather"), screen);
 
     cout << "       drawing Current Temperature" << endl;

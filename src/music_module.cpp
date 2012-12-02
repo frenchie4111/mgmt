@@ -49,7 +49,7 @@ void music_module::update()
         cout << "Albumart: " << albumart << endl;
         songtitle = mf.get_musictitle();
         cout << "Update check" << endl;
-        if(albumart != "")
+        if(albumart != "" && albumart != "No")
         {
             cout << "About to show ASDFGH: " << albumart;
             albumartimg = scale_load_image(albumart, 400, 400);
