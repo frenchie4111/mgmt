@@ -2298,8 +2298,5339 @@ Drawing
 Updating
 About to download
 Got new this.txt
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Weather Image name: ra1.png
+File already existed: ra1.png
+0 bytes
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+About to download
+Got new this.txt
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+About to download
+Got new this.txt
 Albumart: 
 Update check
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+About to download
+Got new this.txt
+Albumart: 
+Update check
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+About to download
+Got new this.txt
+Albumart: 
+Update check
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Weather Image name: ra1.png
+File already existed: ra1.png
+0 bytes
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+About to download
+Got new this.txt
+Albumart: 
+Update check
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+About to download
+Got new this.txt
+Albumart: 
+Update check
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+About to download
+Got new this.txt
+Albumart: 
+Update check
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
+Drawing
+   Drawing fill
+   Drawing top rect
+   Drawing text
+       Drawing albumart
+       Drawing songitlte
+   Drawing tdm
+   Drawing todom
+   Drawing wm
+       drawing parent
+       drawing Current Conditions
+       drawing Current Temperature
+       drawing Current Humidity
+   Drawing am
+Updating
 Drawing
    Drawing fill
    Drawing top rect

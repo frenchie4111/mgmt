@@ -132,8 +132,8 @@ class music_file
 		}
 		string get_updated_art()
 		{
-		    update_file();
-		    update_vector();
+		    //update_file();
+		    //update_vector();
 		    return download_art();
 		}
 };

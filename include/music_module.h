@@ -18,6 +18,7 @@ class music_module : public module
         string songtitle;
 
         int limiter;
+        bool draw_check;
 
         music_module();
         music_module(settings_handler settings);
