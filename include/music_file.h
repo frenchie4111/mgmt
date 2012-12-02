@@ -12,6 +12,10 @@
 
 using namespace std;
 
+#include <sys/types.h>
+#include <sys/stat.h>
+#include <unistd.h>
+
 class music_file 
 {
 	string file_location;
@@ -34,12 +38,19 @@ class music_file
 			file_location = "this.txt";
 			ip = settings.get_setting("MUSIC_IP");
 		}
-		void update_file()
+		bool update_file()
 		{
 		    cout << "About to download" << endl;
 			string cmd = "wget --quiet -O art/" + file_location + " 'http://"+ip+"/ajquery/?cmd=&param1=&param3=js%2Fstate.json'";
 			cout << "Got new this.txt" << endl;
 			system(cmd.c_str());
+
+			struct stat filestatus;
+	        stat( ("art/" + file_location).c_str() , &filestatus );
+	        cout << filestatus.st_size << " bytes\n";
+	        if( filestatus.st_size > 0 )
+	            return true;
+	       	return false;
 			//system("wget --quiet -O this.txt 'http://mike.bluefile.org/ajquery/?cmd=&param1=&param3=js%2Fstate.json' >> /dev/null");
 		};
 		void update_vector() //To be called after file is updated

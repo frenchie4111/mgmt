@@ -19,6 +19,7 @@ class music_module : public module
 
         int limiter;
         bool draw_check;
+        bool file_check;
 
         music_module();
         music_module(settings_handler settings);

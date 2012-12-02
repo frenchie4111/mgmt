@@ -4,18 +4,23 @@ music_module::music_module():module(400, 430, "FooBar2000 Now Playing")
 {
     limiter = 0;
     draw_check = false;
+    file_check = false;
 
     mediumth = lyons_text(20);
 
-    mf.update_file();
-    mf.update_vector();
-
-    if( mf.get_info("\"isPlaying\"") == "1" )
+    file_check = mf.update_file();
+    
+    if( file_check )
     {
-        albumart = mf.get_updated_art();
-        songtitle = mf.get_musictitle();
-        albumartimg = scale_load_image(albumart, 400, 400);
-        draw_check = true;
+        mf.update_vector();
+
+        if( mf.get_info("\"isPlaying\"") == "1" )
+        {
+            albumart = mf.get_updated_art();
+            songtitle = mf.get_musictitle();
+            albumartimg = scale_load_image(albumart, 400, 400);
+            draw_check = true;
+        }
     }
 }
 
@@ -47,25 +52,28 @@ void music_module::update()
     }
     else
     {
-        mf.update_file();
-        mf.update_vector();
-        if( mf.get_info("\"isPlaying\"") == "1" )
+        file_check = mf.update_file();
+        if( file_check )
         {
-            albumart = mf.get_updated_art();
-            cout << "Albumart: " << albumart << endl;
-            songtitle = mf.get_musictitle();
-            cout << "Update check" << endl;
-            if(albumart != "" && albumart != "No")
+            mf.update_vector();
+            if( mf.get_info("\"isPlaying\"") == "1" )
             {
-                cout << "About to show ASDFGH: " << albumart;
-                albumartimg = scale_load_image(albumart, 400, 400);
+                albumart = mf.get_updated_art();
+                cout << "Albumart: " << albumart << endl;
+                songtitle = mf.get_musictitle();
+                cout << "Update check" << endl;
+                if(albumart != "" && albumart != "No")
+                {
+                    cout << "About to show ASDFGH: " << albumart;
+                    albumartimg = scale_load_image(albumart, 400, 400);
+                }
+                draw_check = true;
             }
-            draw_check = true;
+            else
+            {
+                draw_check = false;
+            }
+            limiter = 0;
         }
-        else
-        {
-            draw_check = false;
-        }
-        limiter = 0;
     }
 }
