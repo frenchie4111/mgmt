@@ -1,5 +1,7 @@
 #include "agenda_module.h"
 
+#include "pstream.h"
+
 agenda_module::agenda_module():module(250,400,"Daily Agenda")
 {
     update_agenda();
@@ -8,24 +10,15 @@ agenda_module::agenda_module():module(250,400,"Daily Agenda")
 
 void agenda_module::update_agenda()
 {
-    system("google calendar today > art/agenda.txt");
-
     vector<string> lines;
-
-    string path = "art/agenda.txt";
-
-    fstream f(path.c_str(), fstream::in | fstream::out);
-    string line;
-    int temp = 0;
-    while(getline(f,line))
+    redi::ipstream in("ls ./*.h");
+    std::string str;
+    while (std::getline(in, str)) 
     {
-            lines.push_back(line);
-            //cout << ++temp << line << endl;
-            line.clear();
+        std::cout << str << std::endl;
+        lines.push_back(str)
     }
-    f.close();
-
-    agenda = lines;
+    agents = lines;
 }
 void agenda_module::update()
 {

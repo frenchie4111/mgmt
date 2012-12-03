@@ -34,7 +34,7 @@ music_module::music_module( settings_handler settings ):module(400, 430, "FooBar
 void music_module::draw(SDL_Surface *screen, int x, int y)
 {
     module::draw(screen, x, y);
-    if( draw_check )
+    if( file_check && draw_check )
     {
         cout << "       Drawing albumart" << endl;
         apply_surface(x, y+30, albumartimg, screen);
@@ -75,5 +75,7 @@ void music_module::update()
             }
             limiter = 0;
         }
+        else
+            cout << "   Not drawing mm" << endl;
     }
 }

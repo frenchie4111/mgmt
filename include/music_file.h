@@ -16,6 +16,8 @@ using namespace std;
 #include <sys/stat.h>
 #include <unistd.h>
 
+#include "pstream.h"
+
 class music_file 
 {
 	string file_location;
@@ -38,18 +40,48 @@ class music_file
 			file_location = "this.txt";
 			ip = settings.get_setting("MUSIC_IP");
 		}
+		/*
+		    vector<string> lines;
+		    redi::ipstream in("ls ./*.h");
+		    std::string str;
+		    while (std::getline(in, str)) 
+		    {
+		        std::cout << str << std::endl;
+		        lines.push_back(str)
+		    }
+		    agents = lines;
+		*/
 		bool update_file()
 		{
 		    cout << "About to download" << endl;
-			string cmd = "wget --quiet -O art/" + file_location + " 'http://"+ip+"/ajquery/?cmd=&param1=&param3=js%2Fstate.json'";
+			string cmd = "wget -O art/" + file_location + " 'http://"+ip+"/ajquery/?cmd=&param1=&param3=js%2Fstate.json'";
 			cout << "Got new this.txt" << endl;
-			system(cmd.c_str());
+			//system(cmd.c_str());
+			redi::ipstream in(cmd.c_str());
+			std::string str;
+			bool file_downloaded = true;
+			while (std::getline(in, str)) 
+		    {
+		        std::cout << str << std::endl;
+		        if( str == "wget: unable to resolve host address `alaska4.student.rit.edu'" )
+		        	file_downloaded = false;
+		    }
 
-			struct stat filestatus;
-	        stat( ("art/" + file_location).c_str() , &filestatus );
-	        cout << filestatus.st_size << " bytes\n";
-	        if( filestatus.st_size > 0 )
-	            return true;
+		    if( file_downloaded )
+		    {
+			    cout << "Checking this.txt size" << endl;
+
+				struct stat filestatus;
+		        stat( ("art/" + file_location).c_str() , &filestatus );
+		        cout << filestatus.st_size << " bytes\n";
+		        if( filestatus.st_size > 0 )
+		        {
+		        	cout << "   returning true" << endl;
+		            return true;
+		        }
+	    	}
+	    	
+	        cout << "   returning false" << endl;
 	       	return false;
 			//system("wget --quiet -O this.txt 'http://mike.bluefile.org/ajquery/?cmd=&param1=&param3=js%2Fstate.json' >> /dev/null");
 		};

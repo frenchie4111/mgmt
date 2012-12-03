@@ -26,6 +26,7 @@ class module_handler
     public:
         Uint32 startTime; //for fps
         int numFrames;
+        int update_cycle;
 
         settings_handler settings;
 

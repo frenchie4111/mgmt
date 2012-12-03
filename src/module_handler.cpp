@@ -4,6 +4,9 @@ module_handler::module_handler()
 {
     
     cout << "SETTING: " << settings.get_setting("WEATHER_IP") << endl;
+    numFrames = 0;
+    startTime = SDL_GetTicks();
+    update_cycle = 0;
 }
 
 void module_handler::draw(SDL_Surface *screen)
@@ -45,8 +48,23 @@ void module_handler::draw(SDL_Surface *screen)
 }
 void module_handler::update()
 {
-    mm.update();
-    todom.update();
-    wm.update();
-    am.update();
+    switch( update_cycle )
+    {
+        case 0:
+            mm.update();
+            update_cycle = 1;
+            break;
+        case 1:
+            todom.update();
+            update_cycle = 2;
+            break;
+        case 2:
+            wm.update();
+            update_cycle = 3;
+            break;
+        case 3:
+            am.update();
+            update_cycle = 0;
+            break;
+    }
 }
