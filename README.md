@@ -1,4 +1,4 @@
 mgmt
 ====
 
-Lyons Managment
+Information display system for everyday use
