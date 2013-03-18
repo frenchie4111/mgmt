@@ -10,15 +10,17 @@ agenda_module::agenda_module():module(250,400,"Daily Agenda")
 
 void agenda_module::update_agenda()
 {
+    
     vector<string> lines;
-    redi::ipstream in("ls ./*.h");
+    //redi::ipstream in("ls ./*.h");
+    redi::ipstream in("google calendar today");
     std::string str;
     while (std::getline(in, str)) 
     {
         std::cout << str << std::endl;
-        lines.push_back(str)
+        lines.push_back(str);
     }
-    agents = lines;
+    agenda = lines;
 }
 void agenda_module::update()
 {
@@ -32,6 +34,7 @@ void agenda_module::update()
 
 void agenda_module::draw(SDL_Surface *screen, int x, int y)
 {
+    
     module::draw(screen, x, y);
 
     for(int i = 0; i < agenda.size()-2; i++)

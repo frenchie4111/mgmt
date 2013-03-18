@@ -1,8 +1,9 @@
 #include "timedate_module.h"
 
-timedate_module::timedate_module():module(400, 50, "Time/Date")
+timedate_module::timedate_module():module(600, 200, "Time/Date")
 {
-    largeth = lyons_text(40);
+    th = lyons_text(20);
+    largeth = lyons_text(180);
 }
 void timedate_module::update()
 {
@@ -45,5 +46,6 @@ void timedate_module::draw(SDL_Surface *screen, int x, int y)
     ss5 >> temphour;
 
     module::draw(screen, x, y);
-    largeth.paint_text_center(x+200, y+10, tempday + "/" + tempmonth + "/" + tempyear + " - " + temphour + ":" + tempmin, screen);
+    largeth.paint_text_center(x+300, y+10, temphour + ":" + tempmin, screen);
+    th.paint_text_center(x+300, y+180, tempday + "/" + tempmonth + "/" + tempyear, screen);
 }

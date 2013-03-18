@@ -38,11 +38,11 @@ void module_handler::draw(SDL_Surface *screen)
 
     mm.draw(screen, 10, 20);
     cout << "   Drawing tdm" << endl;
-    tdm.draw(screen, 420, 20);
+    tdm.draw(screen, 10, 460);
     cout << "   Drawing todom" << endl;
-    todom.draw(screen, 420, 80);
+    todom.draw(screen, 420, 20);
     cout << "   Drawing wm" << endl;
-    wm.draw(screen, 680, 80);
+    wm.draw(screen, 680, 20);
     cout << "   Drawing am" << endl;
     am.draw(screen, 830, 20);
 }
