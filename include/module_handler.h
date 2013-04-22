@@ -34,7 +34,7 @@ class module_handler
         timedate_module tdm;
         todo_module todom;
         weather_module wm;
-        agenda_module am;
+//        agenda_module am;
 
         lyons_text th;
 

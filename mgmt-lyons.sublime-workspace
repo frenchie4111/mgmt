@@ -27,7 +27,7 @@
 			"file": "src/main.cpp",
 			"settings":
 			{
-				"buffer_size": 1611,
+				"buffer_size": 1614,
 				"line_ending": "Unix"
 			}
 		},
@@ -35,7 +35,7 @@
 			"file": "mgmt.sublime-build",
 			"settings":
 			{
-				"buffer_size": 204,
+				"buffer_size": 221,
 				"line_ending": "Unix"
 			}
 		},
@@ -43,7 +43,7 @@
 			"file": "src/music_module.cpp",
 			"settings":
 			{
-				"buffer_size": 1097,
+				"buffer_size": 2022,
 				"line_ending": "Unix"
 			}
 		},
@@ -51,7 +51,7 @@
 			"file": "include/music_file.h",
 			"settings":
 			{
-				"buffer_size": 2791,
+				"buffer_size": 4877,
 				"line_ending": "Unix"
 			}
 		},
@@ -59,23 +59,7 @@
 			"file": "src/todo_module.cpp",
 			"settings":
 			{
-				"buffer_size": 1649,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "mgmt-lyons.sublime-project",
-			"settings":
-			{
-				"buffer_size": 377,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "mgmt-lyons.sublime-workspace",
-			"settings":
-			{
-				"buffer_size": 7090,
+				"buffer_size": 1643,
 				"line_ending": "Unix"
 			}
 		}
@@ -124,6 +108,8 @@
 	},
 	"file_history":
 	[
+		"/home/mike/Programming/github/mgmt/mgmt-lyons.sublime-project",
+		"/home/mike/Programming/github/mgmt/mgmt-lyons.sublime-workspace",
 		"/home/mike/.config/sublime-text-2/Packages/User/C++ SDL.sublime-build",
 		"/home/mike/Programming/mgmt/include/module_handler.h",
 		"/home/mike/Programming/mgmt/src/module_handler.cpp",
@@ -167,7 +153,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 4,
 			"sheets":
 			[
 				{
@@ -175,15 +161,15 @@
 					"file": "src/main.cpp",
 					"settings":
 					{
-						"buffer_size": 1611,
+						"buffer_size": 1614,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								501,
-								501
+								264,
+								264
 							]
 						],
 						"settings":
@@ -193,7 +179,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 270.0,
+						"translation.y": 255.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -203,15 +189,15 @@
 					"file": "mgmt.sublime-build",
 					"settings":
 					{
-						"buffer_size": 204,
+						"buffer_size": 221,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1,
-								1
+								0,
+								0
 							]
 						],
 						"settings":
@@ -230,15 +216,15 @@
 					"file": "src/music_module.cpp",
 					"settings":
 					{
-						"buffer_size": 1097,
+						"buffer_size": 2022,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								141,
-								141
+								0,
+								0
 							]
 						],
 						"settings":
@@ -258,88 +244,7 @@
 					"file": "include/music_file.h",
 					"settings":
 					{
-						"buffer_size": 2791,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								247,
-								247
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C++.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "src/todo_module.cpp",
-					"settings":
-					{
-						"buffer_size": 1649,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1020,
-								1020
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/C++/C++.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 585.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "mgmt-lyons.sublime-project",
-					"settings":
-					{
-						"buffer_size": 377,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								377,
-								377
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "mgmt-lyons.sublime-workspace",
-					"settings":
-					{
-						"buffer_size": 7090,
+						"buffer_size": 4877,
 						"regions":
 						{
 						},
@@ -352,11 +257,39 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"syntax": "Packages/C++/C++.tmLanguage",
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 5079.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "src/todo_module.cpp",
+					"settings":
+					{
+						"buffer_size": 1643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 585.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"

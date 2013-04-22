@@ -44,7 +44,7 @@ void module_handler::draw(SDL_Surface *screen)
     cout << "   Drawing wm" << endl;
     wm.draw(screen, 680, 20);
     cout << "   Drawing am" << endl;
-    am.draw(screen, 830, 20);
+//    am.draw(screen, 830, 20);
 }
 void module_handler::update()
 {
@@ -63,7 +63,7 @@ void module_handler::update()
             update_cycle = 3;
             break;
         case 3:
-            am.update();
+ //           am.update();
             update_cycle = 0;
             break;
     }
